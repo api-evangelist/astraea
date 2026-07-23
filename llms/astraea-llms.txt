@@ -1,0 +1,30 @@
+# Astraea
+
+> Astraea is an AI-native clinical trial automation platform for standards-aware biometrics, compliance, and submission workflows.
+
+This file is generated from the site's source content. It is a curated index for AI assistants, not a crawler permissions file. For crawler permissions, see `/robots.txt`.
+
+## Core Pages
+
+- [Home](https://www.tryastraea.com/): Overview of Astraea's autonomous clinical trial automation platform.
+- [Platform](https://www.tryastraea.com/platform): Standards-native AI execution layer for biometrics, compliance, SDTM, ADaM, TLFs, Define-XML, and audit-ready workflows.
+- [Standards and Submission Automation](https://www.tryastraea.com/solutions/standards-automation): CDISC SDTM, ADaM, aCRF, Define-XML, eCRT, and validation workflow automation.
+- [End-to-End Biometrics](https://www.tryastraea.com/solutions/end-to-end-biometrics): Biostatistics, clinical programming, statistical execution, and reporting workflows from protocol through submission.
+- [Embedded Teams](https://www.tryastraea.com/solutions/embedded-teams): Astraea specialists embedded with sponsor teams to operate governed AI workflows.
+- [Astraea vs. Traditional CRO](https://www.tryastraea.com/astraea-vs-cro): Comparison of Astraea's platform model against traditional CRO and in-house biometrics operating models.
+- [FAQ](https://www.tryastraea.com/faq): Answers about 21 CFR Part 11, audit trails, electronic signatures, SDTM, ADaM, data security, HIPAA, GDPR, and human-in-the-loop review.
+- [About](https://www.tryastraea.com/about): Company background and Astraea's approach to AI-native clinical trial operations.
+- [Contact](https://www.tryastraea.com/contact): Demo, sales, partnership, press, career, and general inquiry routes.
+
+## Common Questions
+
+- What is Astraea? Astraea is an AI-native clinical trial automation platform for standards-aware biometrics, compliance, and submission workflows.
+- What workflows does Astraea automate? Astraea automates and orchestrates SDTM and ADaM mapping, aCRF annotation, Define-XML and eCRT metadata, TLF generation from SAPs, validation checks, data desensitization, evidence synthesis, and audit-ready logs.
+- Does Astraea replace clinical experts? No. Astraea runs clinical trial workflows under human supervision; qualified reviewers confirm, correct, or reject critical outputs before acceptance.
+- How does Astraea handle regulated records? Astraea is built around 21 CFR Part 11-aligned controls, including audit trails, access controls, validation, record retention, linked electronic signatures, and reviewable lineage.
+- How can a sponsor request a demo? Use the contact page or the product-demo scheduling link on Astraea's site.
+
+## Discovery
+
+- [Sitemap](https://www.tryastraea.com/sitemap-index.xml): Complete search-engine sitemap, if available.
+- [Robots policy](https://www.tryastraea.com/robots.txt): Crawler permissions for automated agents.

@@ -1,7 +1,30 @@
 aid: astraea
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/astraea.png
 name: Astraea
-description: Astraea is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Astraea is a Y Combinator-backed (Spring 2026) clinical trial automation
+  platform that gives pharmaceutical sponsors, biotechs, and CROs an AI
+  operating system for clinical development. Founded by Joshua Wang and Sanmay
+  Sarada, the platform orchestrates specialized AI agents across the full
+  biometrics lifecycle - standards mapping, data normalization, CDISC mapping,
+  SDTM and ADaM dataset generation, TFLs/TLFs, SAP, eCRFs, Define-XML, QC, and
+  submission documents - turning a protocol and raw study data into
+  FDA-submission-ready output. Astraea is positioned as sponsor-run software
+  rather than a CRO: it runs inside the customer's own secure environment so
+  clinical data never reaches Astraea's servers, with 21 CFR Part 11 compliance
+  and audit-ready, standards-native traceability. The company reports serving
+  10+ global pharma and biotech sponsors with 30-50% faster reporting cycles.
 url: https://raw.githubusercontent.com/api-evangelist/astraea/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +34,35 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Clinical Trials
+- Healthcare
+- Life Sciences
+- Artificial Intelligence
+- Biometrics
+- Clinical Development
+- Pharmaceutical
+- CDISC
+- Regulatory
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: Website
+  url: https://www.tryastraea.com/
+- type: Support
+  url: https://www.tryastraea.com/contact
+- type: DomainSecurity
+  url: security/astraea-domain-security.yml
+- type: LLMsTxt
+  url: llms/astraea-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
