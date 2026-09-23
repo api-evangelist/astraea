@@ -1,0 +1,29 @@
+# Front Door AI Index — astraea — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: astraea
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.tryastraea.com
+  final_host: www.tryastraea.com
+  ownership: own
+  owner: astraea
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 13
+  host_score: 13
+  density: 16.69
+  words: 779
+  tiers:
+    agentic: 3
+    core: 10
+    model: 0
+  ambiguous: 6
+  top_terms:
+    AI: 10
+    agent: 3
+    automation: 3
+    AI agent: 2
+    agentic: 1
